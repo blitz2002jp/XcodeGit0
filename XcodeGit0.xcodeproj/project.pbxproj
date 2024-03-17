@@ -14,6 +14,7 @@
 		586C39C72BA698A200C0BD8B /* XcodeGit0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586C39C62BA698A200C0BD8B /* XcodeGit0Tests.swift */; };
 		586C39D12BA698A200C0BD8B /* XcodeGit0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586C39D02BA698A200C0BD8B /* XcodeGit0UITests.swift */; };
 		586C39D32BA698A200C0BD8B /* XcodeGit0UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586C39D22BA698A200C0BD8B /* XcodeGit0UITestsLaunchTests.swift */; };
+		586C39E62BA69D3600C0BD8B /* AddClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586C39E52BA69D3600C0BD8B /* AddClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		586C39CC2BA698A200C0BD8B /* XcodeGit0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeGit0UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		586C39D02BA698A200C0BD8B /* XcodeGit0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeGit0UITests.swift; sourceTree = "<group>"; };
 		586C39D22BA698A200C0BD8B /* XcodeGit0UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeGit0UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		586C39E52BA69D3600C0BD8B /* AddClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		586C39B42BA698A000C0BD8B /* XcodeGit0 */ = {
 			isa = PBXGroup;
 			children = (
+				586C39E52BA69D3600C0BD8B /* AddClass.swift */,
 				586C39B52BA698A000C0BD8B /* XcodeGit0App.swift */,
 				586C39B72BA698A000C0BD8B /* ContentView.swift */,
 				586C39B92BA698A200C0BD8B /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			files = (
 				586C39B82BA698A000C0BD8B /* ContentView.swift in Sources */,
 				586C39B62BA698A000C0BD8B /* XcodeGit0App.swift in Sources */,
+				586C39E62BA69D3600C0BD8B /* AddClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
